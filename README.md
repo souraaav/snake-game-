@@ -56,7 +56,8 @@ java SnakeGame
 
 📷 Screenshots
 
-(Add screenshots here if available)
+<img width="747" height="779" alt="{1004F8FE-0347-41F2-B51D-FA84180E8774}" src="https://github.com/user-attachments/assets/7aa6a333-2802-4974-8cbe-c61a2c7c4280" />
+
 
 📄 License
 
