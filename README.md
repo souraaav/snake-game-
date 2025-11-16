@@ -41,6 +41,9 @@ A classic Snake Game built in Java using the Swing framework. This project demon
    ```
 
 ---
+demo-
+<img width="740" height="781" alt="{91F56E84-89D1-429F-A177-8E57ADFF05B0}" src="https://github.com/user-attachments/assets/f29e7d18-fa23-4593-a9e7-341caaced7a4" />
+
 
 
 #### ✅ Key Benefits
@@ -51,11 +54,6 @@ A classic Snake Game built in Java using the Swing framework. This project demon
 - **Cross-Platform**: Runs on `ubuntu-latest` for consistency.
 
 ---
-
-### 📖 1500-Word Summary
-
-#### Introduction
-
 The Snake Game is a timeless arcade classic that has captivated generations of gamers with its simple yet addictive gameplay. This project is a modern reimplementation of the game using Java and the Swing GUI toolkit. It serves as a practical demonstration of core programming concepts such as object-oriented design, event-driven programming, and real-time rendering. Built with clarity and modularity in mind, this project is ideal for learners and developers interested in game development, Java GUI applications, and CI/CD automation.
 
 #### Game Mechanics
@@ -130,6 +128,7 @@ Potential improvements include:
 - 🎨 Customizable themes and snake skins
 - 📊 Leaderboard integration using a backend service
 - 🧪 Code coverage and static analysis integration (e.g., JaCoCo, Checkstyle)
+note - To make any changes into the game u have to change it's code please make sure to see the code properly
 
 #### Conclusion
 
