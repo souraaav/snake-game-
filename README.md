@@ -14,7 +14,7 @@ A classic Snake Game built in Java using the Swing framework. This project demon
 - ⌨️ **Keyboard Controls**: Use arrow keys to control the snake’s direction.
 - 💥 **Collision Detection**: Game ends when the snake hits the wall or itself.
 - 🧱 **Grid-Based Movement**: Smooth movement across a grid layout.
-- 🧪 **Unit Testing Ready**: Easily testable logic with Maven-based test integration.
+- 🧪 **Unit Testing Ready**: Easily testable logic with Maven(yaml)-based test integration.
 - 🔄 **CI/CD Workflow**: Automated build and test pipeline using GitHub Actions.
 
 ---
