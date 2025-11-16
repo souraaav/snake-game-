@@ -88,8 +88,7 @@ java SnakeGame
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://your-live-demo-link.com)
 
 > Add a GIF or screenshot below to showcase gameplay
-
-![Snake Game Screenshot](https://your-screenshot-link.com/snake-game.png)
+<img width="742" height="778" alt="{E153A34E-40D3-41B9-B965-0F32805B210B}" src="https://github.com/user-attachments/assets/78243658-decb-4abd-9a24-1a82ae7d5b25" />
 
 ---
 
